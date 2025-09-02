@@ -2,9 +2,6 @@
 ## Universidad Carlos III de Madrid
 
 Hi! This is the repository collection of the AWE group of UC3M. Here you will find our open source and open data initiatives.
-
-In the meantime, please check out other related repos:
-* [LAKSA](https://github.com/apastor3/laksa)
 <!--
 
 **Here are some ideas to get you started:**
